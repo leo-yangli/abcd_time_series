@@ -1,4 +1,4 @@
-# L0-ARM
+# ABCD TimeSeries
 
 This repository contains the code for [Accounting for Temporal Variability in Functional Magnetic Resonance Imaging Improves Prediction of Intelligence](https://arxiv.org/abs/2211.07429).
 
