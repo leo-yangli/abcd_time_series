@@ -1,4 +1,4 @@
-# ABCD TimeSeries
+# ABCD Time Series
 
 This repository contains the code for [Accounting for Temporal Variability in Functional Magnetic Resonance Imaging Improves Prediction of Intelligence](https://arxiv.org/abs/2211.07429).
 
@@ -39,7 +39,7 @@ Feature Selection Fine-tuning Example
 ## Citation
 If you found this code useful, please cite our paper.
 
-    @misc{lstm_abcd,
+    @misc{abcd_time_series,
         doi = {10.48550/ARXIV.2211.07429},
         url = {https://arxiv.org/abs/2211.07429},
         author = {Li, Yang and Ma, Xin and Sunderraman, Raj and Ji, Shihao and Kundu, Suprateek},
