@@ -40,10 +40,8 @@ Feature Selection Fine-tuning Example
 If you found this code useful, please cite our paper.
 
     @misc{abcd_time_series,
-        doi = {10.48550/ARXIV.2211.07429},
         url = {https://arxiv.org/abs/2211.07429},
         author = {Li, Yang and Ma, Xin and Sunderraman, Raj and Ji, Shihao and Kundu, Suprateek},
         title = {Accounting for Temporal Variability in Functional Magnetic Resonance Imaging Improves Prediction of Intelligence},
-        publisher = {arXiv},
         year = {2022},
     }
