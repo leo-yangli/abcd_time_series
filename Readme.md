@@ -23,15 +23,15 @@ Convert each individual's fMRI data into a single numpy file (shape: time_steps 
       |- ...
 
 ## Usage
-Train fMRI Data Example
+Train fMRI data example
 
     python train_fmri.py --task mid --target nihtbx_cryst_uncorrect --test_fold 0 --data_root [DATA_DIR]
 
-Feature Selection Example
+Train with feature selection example
 
     python fea_slct.py --task mid --target nihtbx_cryst_uncorrect --test_fold 0 --regcoef 0.25 --data_root [DATA_DIR]
 
-Feature Selection Fine-tuning Example
+Feature selection fine-tuning/evaluation example
 
     python fea_slct_eval.py --task mid --target nihtbx_cryst_uncorrect --test_fold 0 --model_path [MODEL_PATH] --data_root [DATA_DIR]
 
