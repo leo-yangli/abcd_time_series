@@ -11,7 +11,7 @@ This repository contains the code for [Accounting for Temporal Variability in Fu
     matplotlib
     pandas
 
-# Data Preparing
+# Data Preparation
 Convert each individual's fMRI data into a single numpy file (shape: time_steps * # of features). fMRI data from different tasks should be put in separate folders.
 
     |-ROOT
